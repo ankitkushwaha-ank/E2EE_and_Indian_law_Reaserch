@@ -34,7 +34,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex flex-wrap justify-between items-center gap-4">
         <div className="flex items-center gap-2">
           <Shield className="text-cyan-500" size={24} />
-          <span className="font-bold text-white tracking-wide">Black OS <span className="text-cyan-500">Security</span></span>
+          <span className="font-bold text-white tracking-wide">BLΔCK OS <span className="text-cyan-500">Security</span></span>
         </div>
         <div className="hidden lg:flex gap-6 text-sm font-medium text-slate-400">
           <a href="#architecture" className="hover:text-cyan-400 transition-colors">Architecture</a>
